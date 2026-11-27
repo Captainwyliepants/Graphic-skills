@@ -61,3 +61,9 @@ This is your shortcut to great interfaces. A shortcut to stand out in a sea of s
 - **[learn-taste](https://aiforui.dev/skills/learn-taste)** — Run it at the end of a session. It collects every design correction you made, including the edits you made yourself, and turns each one into a rule with its reason in your `DESIGN.md`, so the next agent doesn’t make the same mistake.
 - **[ask-emil](https://aiforui.dev/skills/ask-emil)** — Not sure which skill to use? Describe your situation and it points you to the right skill, or the right sequence of them, from idea to shipped.
 - **[ask-sonner](https://aiforui.dev/skills/ask-sonner)** — Your guide to working with [Sonner](https://sonner.emilkowal.ski), my toast library. Contains setup, styling, recipes, and fixes for the most common issues.
+
+## Companion: UI UX Pro Max
+
+These skills cover how an interface moves and feels. For how it looks (styles, color palettes, font pairings, layout, UX guidelines, and stack-specific rules), pair them with **[UI UX Pro Max](https://github.com/Captainwyliepants/ui-ux-pro-max-skill)**.
+
+A typical flow: pick the visual system with UI UX Pro Max (`/ui-ux-pro-max`), build the motion with `/animate`, `/choreograph`, or `/gestures`, then check it with `/review-animations` and `/break-ui`.
