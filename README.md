@@ -67,3 +67,7 @@ This is your shortcut to great interfaces. A shortcut to stand out in a sea of s
 These skills cover how an interface moves and feels. For how it looks (styles, color palettes, font pairings, layout, UX guidelines, and stack-specific rules), pair them with **[UI UX Pro Max](https://github.com/Captainwyliepants/ui-ux-pro-max-skill)**.
 
 A typical flow: pick the visual system with UI UX Pro Max (`/ui-ux-pro-max`), build the motion with `/animate`, `/choreograph`, or `/gestures`, then check it with `/review-animations` and `/break-ui`.
+
+## Companion: Modern Web Guidance
+
+For which native HTML, CSS, and JS to build with (dialog, popover, anchor positioning, view transitions, scroll-driven animations), pair these skills with **[Modern Web Guidance](https://github.com/GoogleChrome/modern-web-guidance)** from the Chrome team. It returns current, browser-compatible platform patterns so the motion you design here runs on native APIs instead of heavy JavaScript.
