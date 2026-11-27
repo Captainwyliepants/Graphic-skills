@@ -52,6 +52,11 @@ Model-invoked skills the others lean on. Reach for them directly when the **know
 
 - **`/write-swift`**: modern Swift, Swift 6 concurrency, and native iOS code. Off the web flow entirely.
 
+## Outside this repo
+
+- **`/ui-ux-pro-max`** (from [UI UX Pro Max](https://github.com/Captainwyliepants/ui-ux-pro-max-skill), if installed): when the question is how it should **look**, not move. Styles, color palettes, font pairings, layout, and UX guidelines. Run it before `/animate` when there's no visual system yet.
+- **`/modern-web-guidance`** (from [Modern Web Guidance](https://github.com/GoogleChrome/modern-web-guidance), if installed): when the question is which **native platform feature** to use. Dialog, popover, anchor positioning, view transitions, scroll-driven animations, form validation, with browser support.
+
 ## Common situations
 
 | You say | Reach for |
@@ -70,3 +75,5 @@ Model-invoked skills the others lean on. Reach for them directly when the **know
 | "Try the worst case" | `/break-ui` |
 | "What's that bouncy thing called?" | `/animation-vocabulary` |
 | "Stop making that mistake" | `/learn-taste` |
+| "What style, colors, or fonts should this use?" | `/ui-ux-pro-max` (UI UX Pro Max) |
+| "Is there a native HTML or CSS way to do this?" | `/modern-web-guidance` (Modern Web Guidance) |
